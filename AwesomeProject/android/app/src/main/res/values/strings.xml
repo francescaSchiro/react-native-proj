@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AwesomeProject</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">List</string>
+    <string name="beer_of_the_month">Beer of the month</string>
+    <string name="beers_list">Beers list</string>
+    <string name="beer_detail">Beer detail</string>
+</resources>
